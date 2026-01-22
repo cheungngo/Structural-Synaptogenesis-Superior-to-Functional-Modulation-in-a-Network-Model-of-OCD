@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Structural-Synaptogenesis-Superior-to-Functional-Modulation-in-a-Network-Model-of-OCD"
+abstract: "Structural Synaptogenesis Superior to Functional Modulation in a Pruning-Based Recurrent Network Model of OCD."
+type: software
+authors:
+  - family-names: "Cheung"
+    given-names: "Ngo"
+repository-code: "https://github.com/cheungngo/Structural-Synaptogenesis-Superior-to-Functional-Modulation-in-a-Network-Model-of-OCD.git"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Cheung"
+      given-names: "Ngo"
+  year: 2026
+  title: "Structural Synaptogenesis Superior to Functional Modulation in a Pruning-Based Recurrent Network Model of OCD"
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.18337490"
+  url: "https://doi.org/10.5281/zenodo.18337490"
